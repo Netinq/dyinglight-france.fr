@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="479d3493-d91f-4fa5-a688-60126bdd09f9" name="Quantical Solutions">
+        <fileTransfer rootFolder="/var/www/html/qs-officials/school/" accessType="SFTP" host="quanticalsolutions.com" port="2022" sshConfigId="ed35438c-5f8c-460f-bc8c-e8f9d16a1367" sshConfig="www-data@quanticalsolutions.com:2022 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
